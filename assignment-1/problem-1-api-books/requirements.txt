@@ -1,5 +1,0 @@
-requests
-Flask
-matplotlib
-numpy
-scikit-learn
